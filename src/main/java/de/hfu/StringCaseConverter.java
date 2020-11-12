@@ -1,6 +1,9 @@
 package de.hfu;
 public class StringCaseConverter {
-
+    /**
+     * Wandelt kleinbuchstaben in Grossbuchstaben um
+     * @param args
+     */
     public static void main(String[] args) {
 
         System.out.println("Enter lowerString");
